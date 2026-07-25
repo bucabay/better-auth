@@ -1,5 +1,13 @@
 # @better-auth/oauth-provider
 
+## 1.6.26
+
+### Patch Changes
+
+- Updated dependencies [[`a03e4c1`](https://github.com/better-auth/better-auth/commit/a03e4c18677e2dc01a9b47b2a8017b92dbf9ece7)]:
+  - better-auth@1.6.26
+  - @better-auth/core@1.6.26
+
 ## 1.6.25
 
 ### Patch Changes

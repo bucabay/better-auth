@@ -1,5 +1,20 @@
 # better-auth
 
+## 1.6.26
+
+### Patch Changes
+
+- [#10520](https://github.com/better-auth/better-auth/pull/10520) [`a03e4c1`](https://github.com/better-auth/better-auth/commit/a03e4c18677e2dc01a9b47b2a8017b92dbf9ece7) Thanks [@bytaesu](https://github.com/bytaesu)! - Ensure deleting a user also removes their sessions from secondary storage.
+
+- Updated dependencies []:
+  - @better-auth/core@1.6.26
+  - @better-auth/drizzle-adapter@1.6.26
+  - @better-auth/kysely-adapter@1.6.26
+  - @better-auth/memory-adapter@1.6.26
+  - @better-auth/mongo-adapter@1.6.26
+  - @better-auth/prisma-adapter@1.6.26
+  - @better-auth/telemetry@1.6.26
+
 ## 1.6.25
 
 ### Patch Changes
